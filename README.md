@@ -1,6 +1,11 @@
-### Hi there 👋
+### Hey!
 
-[![My Skills](https://skillicons.dev/icons?i=linux,ansible,bash,cloudflare,py,cs,unity,js,html,css,)](https://skillicons.dev)
+I'm a Developer and Writer from Adelaide, interested in Cybersecurity and the IT field.
+
+Feel free to check out my [blog])(https://catto.world)!
+
+### Skills/Interests
+[![My Skills](https://skillicons.dev/icons?i=ansible,linux,bash,cloudflare,py,cs,unity,js,html,css,)](https://skillicons.dev)
 
 <!--
 **rainyskye/rainyskye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
